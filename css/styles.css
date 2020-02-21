@@ -10,3 +10,8 @@ body {
 .product-showing {
   display: none;
 }
+#main-page {
+  background: url("../img/welcome.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
