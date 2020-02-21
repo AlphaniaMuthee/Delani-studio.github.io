@@ -25,6 +25,7 @@ body {
   background: url("../img/contact.jpg");
   background-repeat: no-repeat;
   background-size: cover;
+  padding: 50px;
 }
 #delani-works {
   padding: 20px;
@@ -32,4 +33,27 @@ body {
 #delani-works img {
   width:100%;
   padding: 10px;
+}
+.click {
+  padding-top: 140px;
+  padding-bottom: 0px;
+}
+#contact-icons {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.clickable h2 {
+  font-weight: bold;
+}
+.clickable1 h2 {
+  font-weight: bold;
+}
+.clickable2 h2 {
+  font-weight: bold;
+}
+textarea{
+  background-color: transparent;
+}
+.carousel-caption{
+  display: none;
 }
