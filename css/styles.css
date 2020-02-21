@@ -10,3 +10,6 @@ body {
 .product-showing {
   display: none;
 }
+img {
+  padding: 15px;
+}
