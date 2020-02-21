@@ -25,3 +25,10 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#delani-works {
+  padding: 12px;
+}
+#delani-works img {
+  width:100%;
+  padding: 10px;
+}
