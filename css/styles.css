@@ -15,3 +15,13 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
 }
+#services {
+  background: url("../img/services.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+#contact-form {
+  background: url("../img/contact.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
