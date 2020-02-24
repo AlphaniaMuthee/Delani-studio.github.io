@@ -56,4 +56,6 @@ textarea{
 }
 .carousel-caption{
   display: none;
+  background-color: white;
+  color: black;
 }
