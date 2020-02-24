@@ -1,6 +1,6 @@
 # Delani Studio
 #### The webpage contains information about Delani Studio, 21 February, 2020.
-#### By **Alphania MUthee**
+#### By **Alphania Muthee**
 ## Description
 This is a webpage containing information about Delani Studio. In this page, you will find out more about Delani Studio, know about the services they offer, view their previous works and contact them in case of any queries or feedback.
 ## Setup/Installation Requirements
@@ -10,15 +10,15 @@ This is a webpage containing information about Delani Studio. In this page, you 
 ## Technologies Used
 In the creation, the project made use of HTML, CSS, JavaScript, Bootstrap and jQuery.
 ## Dependencies
-bootstrap-4.4.1-distt.zip
-jquery-3.4.1.js
+* bootstrap-4.4.1-distt.zip 
+* jquery-3.4.1.js
 ## Support and contact details
 For queries or more information, contact me through any of the following:
 * on twitter @AlphaniaC
-* through email address walphania2@gmail.com
+* email walphania2@gmail.com
 ### License
 *The MIT License*
-Copyright (c) {2020} **Alphania Muthee**
+Copyright (c) 2020 **Alphania Muthee**
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
