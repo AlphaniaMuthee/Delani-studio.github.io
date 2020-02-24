@@ -12,7 +12,7 @@ $(document).ready(function(){
     $(".product-hidden").toggle();
   });
   $("#contact-form").submit(function() {
-       alert("We have received your message. Thankyou for contacting us!");
+       alert("Your message has been received. Thankyou for contacting us!");
    });
   $(".black").hover(function(){
     $(".1").slideToggle();
