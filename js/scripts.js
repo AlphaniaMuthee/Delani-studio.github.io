@@ -12,7 +12,8 @@ $(document).ready(function(){
     $(".product-hidden").toggle();
   });
   $("#contact-form").submit(function() {
-       alert("Your message has been received. Thankyou for contacting us!");
+    var inputName = $("textarea#NAME").val();
+       alert(inputName +" ,your message has been received. Thankyou for contacting us!");
    });
   $(".black").hover(function(){
     $(".1").slideToggle();
